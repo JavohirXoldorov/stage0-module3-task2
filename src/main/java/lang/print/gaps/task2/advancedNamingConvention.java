@@ -6,11 +6,11 @@ public class advancedNamingConvention {
     private int AGE;
     private int phoneNumber;
 
-    void CAllToFriend() {
-        //some code
+    void CallToFriend() {
+        callByNumber(phoneNumber);
     }
 
     void callByNumber(int Number) {
-        //some code
+        System.out.println(Number);
     }
 }
