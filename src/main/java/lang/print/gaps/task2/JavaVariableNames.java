@@ -6,7 +6,7 @@ public class JavaVariableNames {
         int money = 10;
         int hundred = 100;
         int back = 1000;
-        int _underscore = 10000;
+        int underscore_ = 10000;
         int sharp = 100000;
         int star = 1000000;
         int bade_Xample_Of_Var_Name = 1000000;

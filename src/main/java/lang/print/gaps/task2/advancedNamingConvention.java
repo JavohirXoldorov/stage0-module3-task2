@@ -1,16 +1,16 @@
 package lang.print.gaps.task2;
 
 public class advancedNamingConvention {
-    private static final int adult_age = 18;
+    private static final int ADULT_AGE = 18;
 
-    private int AGE;
+    private int age;
     private int phoneNumber;
 
     void CallToFriend() {
-        callByNumber(phoneNumber);
+        System.out.println(age);
     }
 
     void callByNumber(int Number) {
-        System.out.println(Number);
+        System.out.println(phoneNumber);
     }
 }
